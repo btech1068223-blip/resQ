@@ -252,11 +252,10 @@ Being upfront about where this work stands:
 
 **Next steps**
 
-- [ ] Validate personas with interviews (reporters, volunteers, NGO coordinators)
-- [ ] Usability-test the five-step report flow against the "under 2 minutes" success goal
-- [ ] Build out the *My Reports* and *Help* tabs (shown as dashed, unbuilt nodes in the site map)
-- [ ] Prototype the AI triage and volunteer-matching logic
-- [ ] Test the field experience: one-handed, on a scooter, at night
+-  Validate personas with interviews (reporters, volunteers, NGO coordinators)
+-  Usability-test the five-step report flow against the "under 2 minutes" success goal
+-  Prototype the AI triage and volunteer-matching logic
+-  Test the field experience: one-handed, on a scooter, at night
 
 ---
 
