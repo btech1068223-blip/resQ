@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐾 resQ
+#  resQ
 
 ### Animal Rescue Coordination Platform
 
