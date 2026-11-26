@@ -6,7 +6,7 @@
 
 **Report in seconds. Rescue with confidence.**
 
-*Interface Design · Assignment 2 · UX case study & prototype designs*
+*Product Design · UX case study & prototype designs*
 
 </div>
 
