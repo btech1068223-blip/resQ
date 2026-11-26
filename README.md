@@ -89,22 +89,6 @@ A **Google Form survey** with **20 responses**, mainly 18–24-year-olds, coveri
 | Emergency priority & NGO contact | Tracking, records & accountable closure |
 | Real-time status & confirmation | |
 
-## Users & Personas
-
-Three proto-personas were built from the product brief and screen content, and are **meant to be validated with interviews**.
-
-| Persona | Role | Context | Needs most |
-|---|---|---|---|
-| **Rohan Mehta**, 29 | Public reporter | Software engineer, Bengaluru, one-handed on the street | A fast report and proof it went through |
-| **Aditi Sharma**, 31 | Field volunteer (Tier 1) | Senior responder, scooter with handlebar-mounted phone | The one case that matters, and what to carry |
-| **Sister Mary**, 46 | Dispatcher, NGO hub | Operations coordinator, desktop, long shifts | Trustworthy triage, matching, and an audit trail |
-
-Six **affinity maps** group hypothesised observations into themes:
-
-- **Reporter:** urgency & overwhelm · location & evidence · trust & follow-up
-- **Volunteer:** dispatch & readiness · field uncertainty & handover
-- **Dispatcher:** triage & coordination
-
 ## Three Connected Surfaces
 
 | # | Surface | Platform | Journey |
@@ -275,15 +259,6 @@ Being upfront about where this work stands:
 - [ ] Build out the *My Reports* and *Help* tabs (shown as dashed, unbuilt nodes in the site map)
 - [ ] Prototype the AI triage and volunteer-matching logic
 - [ ] Test the field experience: one-handed, on a scooter, at night
-
-## Team
-
-**Interface Design, Assignment 2**
-
-- Aditi Sharma
-- Riya Kumari
-
-<!-- Add any additional contributors here -->
 
 ---
 
